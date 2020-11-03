@@ -1,0 +1,36 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\relation\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	Relations.class
+[debug] 	package.class
+[debug] 	RelationStream$Direction$.class
+[debug] 	RelationApi.class
+[debug] 	BSONHandlers$$anon$1.class
+[debug] 	RelationStream$Direction$Followers$.class
+[debug] 	RelationRepo$.class
+[debug] 	Follower.class
+[debug] 	Relations$.class
+[debug] 	BSONHandlers$$anon$2.class
+[debug] 	Related.class
+[debug] 	BSONHandlers$$anon$3.class
+[debug] 	RelationStream$.class
+[debug] 	Followed.class
+[debug] 	BSONHandlers$.class
+[debug] 	RelationRepo.class
+[debug] 	JsonView.class
+[debug] 	RelationStream$Direction$Following$.class
+[debug] 	Env.class
+[debug] 	Follower$.class
+[debug] 	BSONHandlers.class
+[debug] 	Followed$.class
+[debug] 	RelationStream.class
+[debug] 	JsonView$.class
+[debug] 	Related$.class
+[debug] 	Blocked.class
+[debug] 	RelationStream$Direction.class
+[debug] 	Env$$anon$1.class
+[debug] 	Blocked$.class
+[debug] 	package$.class
+[debug] 	RelationConfig.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\relation\target\scala-2.13\classes.bak

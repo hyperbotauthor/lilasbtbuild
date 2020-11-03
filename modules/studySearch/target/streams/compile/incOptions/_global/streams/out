@@ -1,0 +1,20 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\studySearch\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	Env.class
+[debug] 	Env$$anon$2.class
+[debug] 	Query.class
+[debug] 	Query$.class
+[debug] 	StudySearchApi$$anonfun$1.class
+[debug] 	StudySearchApi$$anonfun$toDoc$1.class
+[debug] 	Env$$anon$2$$anonfun$process$1.class
+[debug] 	Env$$anon$1.class
+[debug] 	Fields.class
+[debug] 	package.class
+[debug] 	Fields$.class
+[debug] 	Fields$chapter$.class
+[debug] 	StudySearchApi.class
+[debug] 	package$.class
+[debug] 	Env$$anonfun$1.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\studySearch\target\scala-2.13\classes.bak

@@ -1,0 +1,23 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\bot\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	package.class
+[debug] 	BotPlayer.class
+[debug] 	GameStateStream$$anon$1.class
+[debug] 	GameStateStream$User.class
+[debug] 	BotForm$ChatData.class
+[debug] 	GameStateStream$$anon$1$$anonfun$receive$1.class
+[debug] 	BotForm$ChatData$.class
+[debug] 	GameStateStream.class
+[debug] 	BotForm.class
+[debug] 	GameStateStream$SetOnline$.class
+[debug] 	GameStateStream$User$.class
+[debug] 	GameStateStream$NewConnectionDetected$.class
+[debug] 	BotJsonView.class
+[debug] 	GameStateStream$.class
+[debug] 	OnlineApiUsers.class
+[debug] 	package$.class
+[debug] 	BotForm$.class
+[debug] 	Env.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\bot\target\scala-2.13\classes.bak

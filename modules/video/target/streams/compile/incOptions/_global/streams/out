@@ -1,0 +1,54 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\video\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	Youtube$Statistics$.class
+[debug] 	TagNb.class
+[debug] 	Youtube$Entry$.class
+[debug] 	VideoApi$$anon$2.class
+[debug] 	package$.class
+[debug] 	package.class
+[debug] 	View$$anon$1.class
+[debug] 	Youtube$Entry.class
+[debug] 	Youtube$ContentDetails.class
+[debug] 	VideoView.class
+[debug] 	Youtube$Metadata.class
+[debug] 	VideoApi$video$count$.class
+[debug] 	Video.class
+[debug] 	VideoApi$$anon$1.class
+[debug] 	View.class
+[debug] 	Sheet$Entry$.class
+[debug] 	Env$$anon$1.class
+[debug] 	UserControl$.class
+[debug] 	Filter.class
+[debug] 	Sheet$$anonfun$$nestedInanonfun$fetchAll$4$1.class
+[debug] 	VideoApi$view$.class
+[debug] 	Youtube$ContentDetails$.class
+[debug] 	Sheet$.class
+[debug] 	UserControl.class
+[debug] 	TagNb$.class
+[debug] 	VideoApi.class
+[debug] 	VideoConfig.class
+[debug] 	Sheet$Entry.class
+[debug] 	VideoApi$tag$.class
+[debug] 	Video$.class
+[debug] 	Sheet$GStr.class
+[debug] 	Youtube$Metadata$.class
+[debug] 	Youtube$.class
+[debug] 	VideoApi$video$.class
+[debug] 	VideoView$.class
+[debug] 	Filter$.class
+[debug] 	VideoApi$$anon$3.class
+[debug] 	View$BSONFields$.class
+[debug] 	Sheet.class
+[debug] 	View$.class
+[debug] 	Youtube$Statistics.class
+[debug] 	Youtube.class
+[debug] 	Sheet$GStr$.class
+[debug] 	Target$.class
+[debug] 	Youtube$Snippet$.class
+[debug] 	Env.class
+[debug] 	Target.class
+[debug] 	Youtube$Snippet.class
+[debug] 	Youtube$$anonfun$$nestedInanonfun$updateAll$2$1.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\video\target\scala-2.13\classes.bak

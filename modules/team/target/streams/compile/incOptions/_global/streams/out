@@ -1,0 +1,59 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\team\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	RequestWithUser$.class
+[debug] 	PaginatorBuilder.class
+[debug] 	Member$.class
+[debug] 	TeamForm.class
+[debug] 	MemberRepo.class
+[debug] 	RequestSetup.class
+[debug] 	RemoveTeam$.class
+[debug] 	TeamSetup.class
+[debug] 	Notifier.class
+[debug] 	Env.class
+[debug] 	BSONHandlers$$anon$4.class
+[debug] 	TeamEdit$.class
+[debug] 	Team.class
+[debug] 	RequestSetup$.class
+[debug] 	Cli$$anonfun$process$1.class
+[debug] 	InsertTeam.class
+[debug] 	BSONHandlers.class
+[debug] 	PaginatorBuilder$TeamAdapter.class
+[debug] 	InsertTeam$.class
+[debug] 	Motivate.class
+[debug] 	TeamApi.class
+[debug] 	package.class
+[debug] 	Team$.class
+[debug] 	TeamApi$TagifyUser$.class
+[debug] 	Joined$.class
+[debug] 	Request.class
+[debug] 	BSONHandlers$.class
+[debug] 	Cached.class
+[debug] 	TeamRepo.class
+[debug] 	Request$.class
+[debug] 	TeamEdit.class
+[debug] 	Joined.class
+[debug] 	BSONHandlers$$anon$3.class
+[debug] 	RequestWithUser.class
+[debug] 	Team$IdsStr$.class
+[debug] 	TeamForm$Fields$.class
+[debug] 	Team$IdsStr.class
+[debug] 	BSONHandlers$$anon$2.class
+[debug] 	Motivate$.class
+[debug] 	RemoveTeam.class
+[debug] 	TeamSetup$.class
+[debug] 	TeamMemberStream.class
+[debug] 	RequestRepo.class
+[debug] 	Team$ChatFor$.class
+[debug] 	Member.class
+[debug] 	TeamApi$TagifyUser.class
+[debug] 	Requesting.class
+[debug] 	Cli.class
+[debug] 	GetTeamName.class
+[debug] 	package$.class
+[debug] 	BSONHandlers$$anon$1.class
+[debug] 	Env$$anonfun$1.class
+[debug] 	TeamSocket.class
+[debug] 	JsonView.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\team\target\scala-2.13\classes.bak

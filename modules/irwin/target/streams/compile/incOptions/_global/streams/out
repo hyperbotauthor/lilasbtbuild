@@ -1,0 +1,42 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\irwin\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	BSONHandlers.class
+[debug] 	IrwinRequest$Origin$.class
+[debug] 	IrwinThresholds.class
+[debug] 	package.class
+[debug] 	IrwinReport$MoveReport$.class
+[debug] 	IrwinRequest$.class
+[debug] 	IrwinRequest.class
+[debug] 	IrwinApi.class
+[debug] 	BSONHandlers$$anon$3.class
+[debug] 	JSONHandlers$.class
+[debug] 	IrwinReport.class
+[debug] 	IrwinRequest$Origin$Leaderboard$.class
+[debug] 	IrwinApi$requests$.class
+[debug] 	IrwinApi$reports$.class
+[debug] 	IrwinStream$$anonfun$1.class
+[debug] 	IrwinThresholds$.class
+[debug] 	IrwinStream.class
+[debug] 	IrwinReport$WithPovs$.class
+[debug] 	BSONHandlers$$anon$2.class
+[debug] 	IrwinReport$WithPovs.class
+[debug] 	IrwinReport$GameReport$WithPov.class
+[debug] 	IrwinApi$notification$.class
+[debug] 	JSONHandlers.class
+[debug] 	IrwinReport$GameReport$WithPov$.class
+[debug] 	BSONHandlers$.class
+[debug] 	IrwinRequest$Origin$Moderator$.class
+[debug] 	IrwinRequest$Origin.class
+[debug] 	IrwinReport$GameReport$.class
+[debug] 	BSONHandlers$$anon$1.class
+[debug] 	Env.class
+[debug] 	IrwinDashboard.class
+[debug] 	package$.class
+[debug] 	IrwinReport$GameReport.class
+[debug] 	IrwinDashboard$.class
+[debug] 	IrwinReport$.class
+[debug] 	IrwinReport$MoveReport.class
+[debug] 	IrwinRequest$Origin$Tournament$.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\irwin\target\scala-2.13\classes.bak

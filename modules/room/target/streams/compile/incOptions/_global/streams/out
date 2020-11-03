@@ -1,0 +1,36 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\room\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	RoomSocket$Protocol$.class
+[debug] 	RoomSocket$Protocol$In$ChatTimeout.class
+[debug] 	RoomSocket$Protocol$In$$anonfun$$nestedInanonfun$reader$1$2.class
+[debug] 	RoomSocket$Protocol$In$$anonfun$$nestedInanonfun$reader$1$1.class
+[debug] 	RoomSocket$NotifyVersion$.class
+[debug] 	RoomSocket$SetVersion$.class
+[debug] 	RoomSocket$$anonfun$roomHandler$1.class
+[debug] 	RoomSocket$RoomId.class
+[debug] 	RoomSocket$Protocol$In$SetVersions$.class
+[debug] 	RoomSocket$Protocol$In$$anonfun$$nestedInanonfun$reader$1$3.class
+[debug] 	RoomSocket$$anonfun$subscribeChat$1.class
+[debug] 	RoomSocket$Protocol$In$KeepAlives.class
+[debug] 	RoomSocket$Protocol$In$TellRoomSri$.class
+[debug] 	RoomSocket$RoomId$.class
+[debug] 	RoomSocket$Protocol$In$.class
+[debug] 	RoomSocket.class
+[debug] 	RoomSocket$Protocol$In$ChatSay.class
+[debug] 	RoomSocket$$anonfun$minRoomHandler$1.class
+[debug] 	RoomSocket$Protocol$In$SetVersions.class
+[debug] 	RoomSocket$NotifyVersion.class
+[debug] 	RoomSocket$Protocol$In$ChatTimeout$.class
+[debug] 	RoomSocket$Protocol$Out$.class
+[debug] 	RoomSocket$Protocol$In$TellRoomSri.class
+[debug] 	package$.class
+[debug] 	package.class
+[debug] 	RoomSocket$.class
+[debug] 	RoomSocket$SetVersion.class
+[debug] 	RoomSocket$Protocol$In$KeepAlives$.class
+[debug] 	RoomSocket$RoomState$$anonfun$1.class
+[debug] 	RoomSocket$RoomState.class
+[debug] 	RoomSocket$Protocol$In$ChatSay$.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\room\target\scala-2.13\classes.bak

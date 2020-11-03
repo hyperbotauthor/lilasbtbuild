@@ -1,0 +1,26 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\blog\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	package$.class
+[debug] 	BlogApi.class
+[debug] 	Youtube.class
+[debug] 	MiniPost$.class
+[debug] 	BlogTransform.class
+[debug] 	MiniPost.class
+[debug] 	LastPostCache.class
+[debug] 	PrismicPaginator.class
+[debug] 	Notifier.class
+[debug] 	BlogApi$Context$.class
+[debug] 	BlogApi$$anonfun$$nestedInanonfun$resolveRef$3$1.class
+[debug] 	Env.class
+[debug] 	BlogTransform$markdown$.class
+[debug] 	Youtube$.class
+[debug] 	PrismicPaginator$.class
+[debug] 	Env$$anon$1.class
+[debug] 	BlogConfig.class
+[debug] 	package.class
+[debug] 	BlogApi$Context.class
+[debug] 	BlogTransform$.class
+[debug] 	BlogApi$.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\blog\target\scala-2.13\classes.bak

@@ -1,0 +1,55 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\evalCache\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	EvalCacheEntry$Input$.class
+[debug] 	EvalCacheEntry.class
+[debug] 	Validator.class
+[debug] 	JsonHandlers$.class
+[debug] 	EvalCacheEntry$Input$Candidate.class
+[debug] 	EvalCacheUpgrade$WatchingMember.class
+[debug] 	EvalCacheEntry$Knodes$.class
+[debug] 	EvalCacheEntry$Eval.class
+[debug] 	BSONHandlers.class
+[debug] 	EvalCacheEntry$Trust$.class
+[debug] 	EvalCacheEntry$Trust.class
+[debug] 	Env$$anon$1$$anonfun$process$1.class
+[debug] 	EvalCacheEntry$Eval$.class
+[debug] 	EvalCacheEntry$Id$.class
+[debug] 	EvalCacheEntry$TrustedUser.class
+[debug] 	BSONHandlers$$anon$2.class
+[debug] 	EvalCacheUpgrade$WatchingMember$.class
+[debug] 	EvalCacheSelector$.class
+[debug] 	BSONHandlers$$anonfun$1.class
+[debug] 	EvalCacheEntry$SmallFen.class
+[debug] 	package.class
+[debug] 	BSONHandlers$$anon$1.class
+[debug] 	EvalCacheEntry$Id.class
+[debug] 	EvalCacheApi.class
+[debug] 	BSONHandlers$$anon$3.class
+[debug] 	EvalCacheSelector.class
+[debug] 	EvalCacheUpgrade$.class
+[debug] 	EvalCacheEntry$Knodes.class
+[debug] 	EvalCacheEntry$TrustedUser$.class
+[debug] 	Env$$anonfun$2.class
+[debug] 	EvalCacheEntry$.class
+[debug] 	Validator$Error.class
+[debug] 	EvalCacheSocketHandler.class
+[debug] 	JsonHandlers.class
+[debug] 	Env.class
+[debug] 	Env$$anon$1.class
+[debug] 	EvalCacheEntry$Pv$.class
+[debug] 	BSONHandlers$.class
+[debug] 	EvalCacheEntry$Moves$.class
+[debug] 	EvalCacheTruster.class
+[debug] 	Validator$.class
+[debug] 	EvalCacheEntry$SmallFen$.class
+[debug] 	EvalCacheUpgrade.class
+[debug] 	package$.class
+[debug] 	EvalCacheEntry$Input.class
+[debug] 	Env$$anonfun$1.class
+[debug] 	Validator$Error$.class
+[debug] 	EvalCacheEntry$Moves.class
+[debug] 	EvalCacheEntry$Pv.class
+[debug] 	EvalCacheEntry$Input$Candidate$.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\evalCache\target\scala-2.13\classes.bak

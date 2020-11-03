@@ -1,0 +1,17 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\explorer\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	InternalEndpoint.class
+[debug] 	Env.class
+[debug] 	InternalEndpoint$.class
+[debug] 	ExplorerIndexer$flowBuffer$.class
+[debug] 	Env$$anon$1.class
+[debug] 	ExplorerImporter.class
+[debug] 	ExplorerIndexer$flowBuffer$$anonfun$apply$12.class
+[debug] 	package$.class
+[debug] 	Env$$anonfun$1.class
+[debug] 	ExplorerIndexer.class
+[debug] 	package.class
+[debug] 	Env$$anon$1$$anonfun$process$1.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\explorer\target\scala-2.13\classes.bak

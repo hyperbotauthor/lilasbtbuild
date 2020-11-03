@@ -1,0 +1,52 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\rating\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	RatingFactor$.class
+[debug] 	Glicko$.class
+[debug] 	RatingRegulator.class
+[debug] 	Env.class
+[debug] 	Glicko$Result$Win$.class
+[debug] 	PerfType$ThreeCheck$.class
+[debug] 	PerfType$Puzzle$.class
+[debug] 	PerfType$Bullet$.class
+[debug] 	RatingRange$.class
+[debug] 	Perf$Typed.class
+[debug] 	Glicko.class
+[debug] 	PerfType$RacingKings$.class
+[debug] 	Perf.class
+[debug] 	PerfType$.class
+[debug] 	PerfType$KingOfTheHill$.class
+[debug] 	RatingRange.class
+[debug] 	Rating.class
+[debug] 	RatingCalculator.class
+[debug] 	Glicko$Result$Loss$.class
+[debug] 	Glicko$$anon$1.class
+[debug] 	BSONHandlers.class
+[debug] 	RatingPeriodResults.class
+[debug] 	PerfType$Classical$.class
+[debug] 	PerfType$Atomic$.class
+[debug] 	Glicko$Result.class
+[debug] 	Perf$Typed$.class
+[debug] 	PerfType$Rapid$.class
+[debug] 	PerfType$Crazyhouse$.class
+[debug] 	RatingFactor.class
+[debug] 	Perf$$anon$1.class
+[debug] 	BSONHandlers$.class
+[debug] 	PerfType.class
+[debug] 	Glicko$Result$Draw$.class
+[debug] 	PerfType$Antichess$.class
+[debug] 	package.class
+[debug] 	PerfType$Correspondence$.class
+[debug] 	RatingFactor$implicits$.class
+[debug] 	Glicko$Result$.class
+[debug] 	PerfType$Horde$.class
+[debug] 	PerfType$Standard$.class
+[debug] 	package$.class
+[debug] 	Perf$.class
+[debug] 	RatingRegulator$.class
+[debug] 	Result.class
+[debug] 	PerfType$Blitz$.class
+[debug] 	PerfType$Chess960$.class
+[debug] 	PerfType$UltraBullet$.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\rating\target\scala-2.13\classes.bak

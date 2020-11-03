@@ -1,0 +1,47 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\push\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	OneSignalPush$.class
+[debug] 	WebSubscription$readers$.class
+[debug] 	WebSubscription$.class
+[debug] 	PushApi$$anonfun$$nestedInanonfun$takebackOffer$4$1.class
+[debug] 	Stacking$ChallengeCreate$.class
+[debug] 	Stacking$GameTakebackOffer$.class
+[debug] 	Stacking$.class
+[debug] 	FirebasePush$$anonfun$transform$1.class
+[debug] 	PushApi.class
+[debug] 	WebSubscriptionApi.class
+[debug] 	Env.class
+[debug] 	OneSignalPush.class
+[debug] 	DeviceApi.class
+[debug] 	FirebasePush$$anon$1.class
+[debug] 	OneSignalPush$Config.class
+[debug] 	PushApi$$anonfun$$nestedInanonfun$drawOffer$4$1.class
+[debug] 	PushConfig.class
+[debug] 	PushApi$Data.class
+[debug] 	package$.class
+[debug] 	Env$$anonfun$1.class
+[debug] 	package.class
+[debug] 	DeviceApi$$anon$1.class
+[debug] 	Stacking$GameDrawOffer$.class
+[debug] 	Stacking$GameFinish$.class
+[debug] 	Stacking.class
+[debug] 	OneSignalPush$$anon$1.class
+[debug] 	Stacking$NewMessage$.class
+[debug] 	Device.class
+[debug] 	Device$.class
+[debug] 	WebPush$Config.class
+[debug] 	WebSubscription.class
+[debug] 	FirebasePush$.class
+[debug] 	PushApi$Data$.class
+[debug] 	FirebasePush$Config.class
+[debug] 	WebPush.class
+[debug] 	Env$$anon$1.class
+[debug] 	FirebasePush.class
+[debug] 	Stacking$GameMove$.class
+[debug] 	PushApi$.class
+[debug] 	Stacking$ChallengeAccept$.class
+[debug] 	WebPush$.class
+[debug] 	WebPush$$anon$1.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\push\target\scala-2.13\classes.bak

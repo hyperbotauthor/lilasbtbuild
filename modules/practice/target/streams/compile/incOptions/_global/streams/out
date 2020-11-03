@@ -1,0 +1,61 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\practice\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	UserPractice$.class
+[debug] 	Completion.class
+[debug] 	PracticeConfig$$anon$3.class
+[debug] 	PracticeGoal$.class
+[debug] 	PracticeConfigStudy.class
+[debug] 	PracticeConfigSection.class
+[debug] 	PracticeStructure.class
+[debug] 	PracticeProgress$OnComplete$.class
+[debug] 	PracticeProgress$NbMoves$.class
+[debug] 	Completion$.class
+[debug] 	PracticeGoal$EvalIn.class
+[debug] 	UserPractice.class
+[debug] 	JsonView$JsData.class
+[debug] 	PracticeStudy$.class
+[debug] 	Env$$anonfun$1.class
+[debug] 	PracticeSection$.class
+[debug] 	PracticeApi.class
+[debug] 	PracticeGoal$MateIn.class
+[debug] 	PracticeConfig$$anon$2.class
+[debug] 	PracticeGoal$DrawIn$.class
+[debug] 	PracticeGoal$EvalIn$.class
+[debug] 	PracticeProgress$OnComplete.class
+[debug] 	PracticeProgress$NbMoves.class
+[debug] 	PracticeApi$config$.class
+[debug] 	JsonView.class
+[debug] 	JsonView$$anonfun$$nestedInanonfun$apply$1$1.class
+[debug] 	PracticeGoal.class
+[debug] 	PracticeGoal$DrawIn.class
+[debug] 	PracticeGoal$EqualIn.class
+[debug] 	PracticeConfig$$anon$1.class
+[debug] 	PracticeApi$structure$.class
+[debug] 	PracticeStructure$.class
+[debug] 	PracticeProgress$Id.class
+[debug] 	JsonView$.class
+[debug] 	PracticeProgress$Id$.class
+[debug] 	PracticeStudy.class
+[debug] 	PracticeGoal$EqualIn$.class
+[debug] 	PracticeApi$progress$.class
+[debug] 	PracticeProgress$.class
+[debug] 	JsonView$JsData$.class
+[debug] 	PracticeConfig$.class
+[debug] 	UserStudy$.class
+[debug] 	PracticeSection.class
+[debug] 	BSONHandlers.class
+[debug] 	BSONHandlers$$anon$1.class
+[debug] 	PracticeGoal$Mate$.class
+[debug] 	PracticeGoal$MateIn$.class
+[debug] 	BSONHandlers$.class
+[debug] 	package$.class
+[debug] 	package.class
+[debug] 	Env.class
+[debug] 	PracticeGoal$Promotion.class
+[debug] 	PracticeConfig.class
+[debug] 	UserStudy.class
+[debug] 	PracticeGoal$Promotion$.class
+[debug] 	PracticeProgress.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\practice\target\scala-2.13\classes.bak

@@ -1,0 +1,37 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\shutup\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	TextAnalysis.class
+[debug] 	ShutupApi.class
+[debug] 	TextType.class
+[debug] 	TextReport.class
+[debug] 	TextType$PrivateMessage$.class
+[debug] 	ShutupConfig.class
+[debug] 	TextType$PrivateChat$.class
+[debug] 	Env$$anon$2$$anonfun$receive$1.class
+[debug] 	TextType$TeamForumMessage$.class
+[debug] 	UserRecord$.class
+[debug] 	Analyser.class
+[debug] 	Env$$anon$2.class
+[debug] 	Analyser$.class
+[debug] 	PublicLine$.class
+[debug] 	package$.class
+[debug] 	PublicLine.class
+[debug] 	ShutupApi$$anonfun$reportText$1.class
+[debug] 	Dictionary.class
+[debug] 	UserRecord.class
+[debug] 	PublicLine$$anonfun$1.class
+[debug] 	TextReport$.class
+[debug] 	TextType$PublicChat$.class
+[debug] 	PublicLine$$anonfun$2.class
+[debug] 	Env$$anon$1.class
+[debug] 	PublicLine$$anon$1.class
+[debug] 	Dictionary$.class
+[debug] 	ShutupApi$$anon$1.class
+[debug] 	Env.class
+[debug] 	TextType$PublicForumMessage$.class
+[debug] 	package.class
+[debug] 	TextType$.class
+[debug] 	TextAnalysis$.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\shutup\target\scala-2.13\classes.bak

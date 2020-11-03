@@ -1,0 +1,46 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\tree\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	Eval.class
+[debug] 	Node$Shape$.class
+[debug] 	Root$.class
+[debug] 	Node$Shape.class
+[debug] 	Node$Shape$Arrow$.class
+[debug] 	Node$Comment$Author$Lichess$.class
+[debug] 	Branch$.class
+[debug] 	Node$Comment$Text.class
+[debug] 	Node$Comment$.class
+[debug] 	Eval$Mate.class
+[debug] 	Node$Comment$Id.class
+[debug] 	Eval$Score$.class
+[debug] 	Node$Comment.class
+[debug] 	Node$Comment$Text$.class
+[debug] 	Eval$JsonHandlers$.class
+[debug] 	Node$.class
+[debug] 	Eval$Cp.class
+[debug] 	Node.class
+[debug] 	Eval$Cp$.class
+[debug] 	Node$Shapes.class
+[debug] 	Node$Comment$Author$User.class
+[debug] 	Eval$.class
+[debug] 	Node$Comment$Author$External.class
+[debug] 	Node$Comment$Author$External$.class
+[debug] 	Node$Comments$.class
+[debug] 	Node$Shape$Circle.class
+[debug] 	Node$Shapes$.class
+[debug] 	Node$Shape$Arrow.class
+[debug] 	Node$Gamebook.class
+[debug] 	Branch.class
+[debug] 	Node$Shape$Circle$.class
+[debug] 	Node$Comment$Author$User$.class
+[debug] 	Node$Comment$Author$.class
+[debug] 	Node$Gamebook$.class
+[debug] 	Node$Comments.class
+[debug] 	Root.class
+[debug] 	Eval$Score.class
+[debug] 	Node$Comment$Id$.class
+[debug] 	Node$Comment$Author.class
+[debug] 	Eval$Mate$.class
+[debug] 	Node$Comment$Author$Unknown$.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\tree\target\scala-2.13\classes.bak

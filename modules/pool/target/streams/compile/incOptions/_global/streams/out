@@ -1,0 +1,58 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\pool\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	PoolActor$.class
+[debug] 	HookThieve.class
+[debug] 	PoolActor.class
+[debug] 	HookThieve$PoolHook$.class
+[debug] 	PoolApi$Pairing.class
+[debug] 	HookThieve$PoolHooks.class
+[debug] 	Env.class
+[debug] 	PoolConfig$NbPlayers.class
+[debug] 	PoolActor$Leave$.class
+[debug] 	MatchMaking$.class
+[debug] 	PoolApi$.class
+[debug] 	HookThieve$StolenHookIds.class
+[debug] 	PoolList$PimpedInt.class
+[debug] 	PoolActor$$anonfun$receive$1.class
+[debug] 	PoolActor$ScheduledWave$.class
+[debug] 	PoolConfig$Id$.class
+[debug] 	HookThieve$GetCandidates.class
+[debug] 	GameStarter.class
+[debug] 	PoolConfig$Wave$.class
+[debug] 	HookThieve$PoolHook.class
+[debug] 	PoolActor$FullWave$.class
+[debug] 	PoolActor$Join$.class
+[debug] 	PoolApi.class
+[debug] 	PoolConfig$NbPlayers$.class
+[debug] 	PoolApi$Joiner$.class
+[debug] 	PoolMember$BlockedUsers.class
+[debug] 	PoolActor$Join.class
+[debug] 	PoolApi$Joiner.class
+[debug] 	PoolMember.class
+[debug] 	package$.class
+[debug] 	HookThieve$.class
+[debug] 	PoolActor$Leave.class
+[debug] 	PoolList.class
+[debug] 	PoolConfig.class
+[debug] 	PoolApi$Pairings.class
+[debug] 	HookThieve$StolenHookIds$.class
+[debug] 	PoolApi$Pairing$.class
+[debug] 	PoolConfig$.class
+[debug] 	PoolConfig$Wave.class
+[debug] 	package.class
+[debug] 	MatchMaking$Couple$.class
+[debug] 	PoolMember$.class
+[debug] 	PoolMember$BlockedUsers$.class
+[debug] 	PoolActor$RunWave$.class
+[debug] 	PoolList$.class
+[debug] 	PoolConfig$Id.class
+[debug] 	HookThieve$GetCandidates$.class
+[debug] 	HookThieve$PoolHooks$.class
+[debug] 	MatchMaking$Couple.class
+[debug] 	MatchMaking$$anonfun$naive$2.class
+[debug] 	MatchMaking$wmMatching$.class
+[debug] 	PoolApi$Pairings$.class
+[debug] 	MatchMaking.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\pool\target\scala-2.13\classes.bak

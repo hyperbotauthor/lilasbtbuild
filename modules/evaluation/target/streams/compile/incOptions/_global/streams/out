@@ -1,0 +1,40 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\evaluation\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	Analysed$.class
+[debug] 	GameAssessment.class
+[debug] 	PlayerFlags.class
+[debug] 	Statistics$.class
+[debug] 	Display$.class
+[debug] 	AccountAction$.class
+[debug] 	Assessible$.class
+[debug] 	AccountAction$Engine$.class
+[debug] 	PlayerAggregateAssessment$WithGames.class
+[debug] 	AccountAction$Report.class
+[debug] 	GameAssessment$Unclear$.class
+[debug] 	PlayerFlags$.class
+[debug] 	PlayerAssessment.class
+[debug] 	PlayerAssessment$.class
+[debug] 	Statistics.class
+[debug] 	PlayerAggregateAssessment.class
+[debug] 	GameAssessment$LikelyCheating$.class
+[debug] 	package.class
+[debug] 	GameAssessment$NotCheating$.class
+[debug] 	GameAssessment$UnlikelyCheating$.class
+[debug] 	Analysed.class
+[debug] 	Assessible.class
+[debug] 	PlayerAggregateAssessment$WithGames$.class
+[debug] 	GameAssessment$.class
+[debug] 	AccountAction.class
+[debug] 	PlayerFlags$$anon$1.class
+[debug] 	PlayerAssessments$.class
+[debug] 	PlayerAggregateAssessment$.class
+[debug] 	AccountAction$EngineAndBan$.class
+[debug] 	Display.class
+[debug] 	GameAssessment$Cheating$.class
+[debug] 	package$.class
+[debug] 	PlayerAssessments.class
+[debug] 	AccountAction$Nothing$.class
+[debug] 	AccountAction$Report$.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\evaluation\target\scala-2.13\classes.bak

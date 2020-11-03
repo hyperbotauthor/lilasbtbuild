@@ -1,0 +1,47 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\setup\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	Mappings$.class
+[debug] 	TimeMode$Correspondence$.class
+[debug] 	Processor$HookResult$Created$.class
+[debug] 	package.class
+[debug] 	ValidFen.class
+[debug] 	ApiConfig$.class
+[debug] 	ValidFen$.class
+[debug] 	OpenConfig.class
+[debug] 	HumanConfig.class
+[debug] 	AiConfig$.class
+[debug] 	ApiAiConfig$.class
+[debug] 	Processor$HookResult$Refused$.class
+[debug] 	TimeMode.class
+[debug] 	FriendConfig.class
+[debug] 	AiConfig.class
+[debug] 	Config$.class
+[debug] 	AiConfig$$anon$1.class
+[debug] 	HookConfig$.class
+[debug] 	BaseConfig.class
+[debug] 	TimeMode$RealTime$.class
+[debug] 	Mappings.class
+[debug] 	Processor.class
+[debug] 	BaseHumanConfig.class
+[debug] 	FormFactory.class
+[debug] 	FriendConfig$.class
+[debug] 	Processor$.class
+[debug] 	TimeMode$Unlimited$.class
+[debug] 	FormFactory$api$.class
+[debug] 	ApiConfig.class
+[debug] 	Processor$HookResult$.class
+[debug] 	FriendConfig$$anon$1.class
+[debug] 	Config.class
+[debug] 	Processor$HookResult$Created.class
+[debug] 	Env.class
+[debug] 	HookConfig$$anon$1.class
+[debug] 	Processor$HookResult.class
+[debug] 	Positional.class
+[debug] 	ApiAiConfig.class
+[debug] 	OpenConfig$.class
+[debug] 	TimeMode$.class
+[debug] 	package$.class
+[debug] 	HookConfig.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\setup\target\scala-2.13\classes.bak

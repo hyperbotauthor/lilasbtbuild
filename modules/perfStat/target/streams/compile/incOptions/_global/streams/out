@@ -1,0 +1,47 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\perfStat\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	Streak.class
+[debug] 	PlayStreak$.class
+[debug] 	Result$.class
+[debug] 	Streaks$.class
+[debug] 	Avg$.class
+[debug] 	package.class
+[debug] 	PerfStatStorage$$anon$1.class
+[debug] 	PerfStat$.class
+[debug] 	PerfStat.class
+[debug] 	Bounds.class
+[debug] 	PerfStatStorage$$anon$9.class
+[debug] 	Streaks.class
+[debug] 	PerfStatStorage$$anon$5.class
+[debug] 	PerfStatStorage$$anon$10.class
+[debug] 	PerfStatStorage$$anon$2.class
+[debug] 	package$.class
+[debug] 	JsonView$.class
+[debug] 	PerfStatStorage.class
+[debug] 	PerfStatStorage$$anon$6.class
+[debug] 	PerfStatStorage$$anon$3.class
+[debug] 	Results$.class
+[debug] 	Results.class
+[debug] 	Bounds$.class
+[debug] 	JsonView.class
+[debug] 	Result.class
+[debug] 	Count$.class
+[debug] 	Env.class
+[debug] 	RatingAt$.class
+[debug] 	ResultStreak.class
+[debug] 	Count.class
+[debug] 	Avg.class
+[debug] 	PlayStreak.class
+[debug] 	PerfStatStorage$$anon$7.class
+[debug] 	PerfStatIndexer.class
+[debug] 	PerfStatStorage$$anon$8.class
+[debug] 	Env$$anonfun$1.class
+[debug] 	UserId.class
+[debug] 	UserId$.class
+[debug] 	PerfStatStorage$$anon$4.class
+[debug] 	RatingAt.class
+[debug] 	Streak$.class
+[debug] 	ResultStreak$.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\perfStat\target\scala-2.13\classes.bak

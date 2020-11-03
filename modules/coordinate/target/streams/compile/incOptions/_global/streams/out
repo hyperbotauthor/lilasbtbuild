@@ -1,0 +1,16 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\coordinate\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	CoordinateForm$ScoreData$.class
+[debug] 	Env.class
+[debug] 	CoordinateForm$.class
+[debug] 	package$.class
+[debug] 	CoordinateApi.class
+[debug] 	Score$.class
+[debug] 	CoordinateForm.class
+[debug] 	package.class
+[debug] 	CoordinateApi$$anon$1.class
+[debug] 	CoordinateForm$ScoreData.class
+[debug] 	Score.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\coordinate\target\scala-2.13\classes.bak

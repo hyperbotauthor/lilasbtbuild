@@ -1,0 +1,67 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\db\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	Util.class
+[debug] 	dsl$SimpleExpression.class
+[debug] 	DbImage$.class
+[debug] 	ByteArray$.class
+[debug] 	AsyncDb.class
+[debug] 	MapReduceAdapter.class
+[debug] 	Adapter$.class
+[debug] 	dsl$StringCurrentDateValueProducer.class
+[debug] 	CollExt.class
+[debug] 	dsl$ArrayOperators.class
+[debug] 	dsl$ElementOperators.class
+[debug] 	dsl$CompositeExpression.class
+[debug] 	package$$anonfun$recoverDuplicateKey$1.class
+[debug] 	dsl$.class
+[debug] 	dsl$Expression.class
+[debug] 	dsl$EvaluationOperators.class
+[debug] 	Handlers$$anon$3.class
+[debug] 	Handlers$$anonfun$BSONJodaDateTimeHandler$1.class
+[debug] 	CachedAdapter.class
+[debug] 	dsl$ComparisonOperators.class
+[debug] 	ImageRepo.class
+[debug] 	dsl$LogicalOperators.class
+[debug] 	Handlers$$anonfun$bsonArrayToNonEmptyListHandler$1.class
+[debug] 	Db.class
+[debug] 	RunCommand.class
+[debug] 	dsl$$sort$.class
+[debug] 	dsl$ElementBuilder.class
+[debug] 	package.class
+[debug] 	ByteArray$$anonfun$1.class
+[debug] 	package$$anonfun$ignoreDuplicateKey$1.class
+[debug] 	BSONReadOnly.class
+[debug] 	dsl$CompositeExpression$.class
+[debug] 	Handlers$$anon$1.class
+[debug] 	QueryBuilderExt.class
+[debug] 	ByteArray.class
+[debug] 	AsyncColl.class
+[debug] 	QueryBuilderExt$ExtendCursor.class
+[debug] 	dsl$CurrentDateValueProducer.class
+[debug] 	CursorExt$ExtendCursor.class
+[debug] 	Handlers$$anon$4.class
+[debug] 	BSON$Reader.class
+[debug] 	DbImage$$anon$1.class
+[debug] 	Env.class
+[debug] 	Handlers.class
+[debug] 	BSON.class
+[debug] 	dsl$SimpleExpression$.class
+[debug] 	Adapter.class
+[debug] 	CursorExt.class
+[debug] 	Photographer$.class
+[debug] 	CollExt$ExtendColl.class
+[debug] 	MapReduceAdapter$.class
+[debug] 	dsl.class
+[debug] 	BSON$.class
+[debug] 	dsl$ElementBuilderLike.class
+[debug] 	dsl$BooleanCurrentDateValueProducer.class
+[debug] 	DbImage.class
+[debug] 	package$.class
+[debug] 	Photographer.class
+[debug] 	Util$.class
+[debug] 	Handlers$$anon$2.class
+[debug] 	ByteArray$hex$.class
+[debug] 	BSON$Writer.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\db\target\scala-2.13\classes.bak

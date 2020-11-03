@@ -1,0 +1,24 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\dev\lila\modules\appeal\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	BsonHandlers$$anonfun$1.class
+[debug] 	Appeal.class
+[debug] 	Env.class
+[debug] 	Appeal$Status$Read$.class
+[debug] 	package$.class
+[debug] 	Appeal$Status$.class
+[debug] 	AppealMsg.class
+[debug] 	Appeal$Status$Unread$.class
+[debug] 	AppealApi.class
+[debug] 	package.class
+[debug] 	BsonHandlers$$anon$2.class
+[debug] 	Appeal$.class
+[debug] 	Appeal$Status$Muted$.class
+[debug] 	BsonHandlers$$anon$1.class
+[debug] 	BsonHandlers.class
+[debug] 	Appeal$Status.class
+[debug] 	AppealForm.class
+[debug] 	AppealMsg$.class
+[debug] 	BsonHandlers$.class
+[debug] Removing the temporary directory used for backing up class files: C:\dev\lila\modules\appeal\target\scala-2.13\classes.bak
