@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 11 products, 5 sources, 8 libraries
+[debug] current source = Set(${BASE}/modules/coordinate/src/main/Env.scala, ${BASE}/modules/coordinate/src/main/package.scala, ${BASE}/modules/coordinate/src/main/CoordinateApi.scala, ${BASE}/modules/coordinate/src/main/Score.scala, ${BASE}/modules/coordinate/src/main/CoordinateForm.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

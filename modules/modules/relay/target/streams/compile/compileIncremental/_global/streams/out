@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 94 products, 17 sources, 20 libraries
+[debug] current source = Set(${BASE}/modules/relay/src/main/RelayGame.scala, ${BASE}/modules/relay/src/main/RelaySync.scala, ${BASE}/modules/relay/src/main/RelayFetch.scala, ${BASE}/modules/relay/src/main/JsonView.scala, ${BASE}/modules/relay/src/main/RelayPush.scala, ${BASE}/modules/relay/src/main/RelayInputSanity.scala, ${BASE}/modules/relay/src/main/RelayApi.scala, ${BASE}/modules/relay/src/main/RelayForm.scala, ${BASE}/modules/relay/src/main/RelayPager.scala, ${BASE}/modules/relay/src/main/RelayRepo.scala, ${BASE}/modules/relay/src/main/Relay.scala, ${BASE}/modules/relay/src/main/SyncLog.scala, ${BASE}/modules/relay/src/main/Env.scala, ${BASE}/modules/relay/src/main/RelayFormat.scala, ${BASE}/modules/relay/src/main/BSONHandlers.scala, ${BASE}/modules/relay/src/main/package.scala, ${BASE}/modules/relay/src/main/RelayWithStudy.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

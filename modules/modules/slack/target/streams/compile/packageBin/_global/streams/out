@@ -1,0 +1,31 @@
+[debug] Packaging C:\dev\lila\modules\slack\target\scala-2.13\slack_2.13-3.2.jar ...
+[debug] Input file mappings:
+[debug] 	lila
+[debug] 	  C:\dev\lila\modules\slack\target\scala-2.13\classes\lila
+[debug] 	lila\slack
+[debug] 	  C:\dev\lila\modules\slack\target\scala-2.13\classes\lila\slack
+[debug] 	lila\slack\Env$$anonfun$1.class
+[debug] 	  C:\dev\lila\modules\slack\target\scala-2.13\classes\lila\slack\Env$$anonfun$1.class
+[debug] 	lila\slack\Env.class
+[debug] 	  C:\dev\lila\modules\slack\target\scala-2.13\classes\lila\slack\Env.class
+[debug] 	lila\slack\package$.class
+[debug] 	  C:\dev\lila\modules\slack\target\scala-2.13\classes\lila\slack\package$.class
+[debug] 	lila\slack\package.class
+[debug] 	  C:\dev\lila\modules\slack\target\scala-2.13\classes\lila\slack\package.class
+[debug] 	lila\slack\SlackApi$.class
+[debug] 	  C:\dev\lila\modules\slack\target\scala-2.13\classes\lila\slack\SlackApi$.class
+[debug] 	lila\slack\SlackApi$charge$.class
+[debug] 	  C:\dev\lila\modules\slack\target\scala-2.13\classes\lila\slack\SlackApi$charge$.class
+[debug] 	lila\slack\SlackApi$rooms$.class
+[debug] 	  C:\dev\lila\modules\slack\target\scala-2.13\classes\lila\slack\SlackApi$rooms$.class
+[debug] 	lila\slack\SlackApi$stage$.class
+[debug] 	  C:\dev\lila\modules\slack\target\scala-2.13\classes\lila\slack\SlackApi$stage$.class
+[debug] 	lila\slack\SlackApi.class
+[debug] 	  C:\dev\lila\modules\slack\target\scala-2.13\classes\lila\slack\SlackApi.class
+[debug] 	lila\slack\SlackClient.class
+[debug] 	  C:\dev\lila\modules\slack\target\scala-2.13\classes\lila\slack\SlackClient.class
+[debug] 	lila\slack\SlackMessage$.class
+[debug] 	  C:\dev\lila\modules\slack\target\scala-2.13\classes\lila\slack\SlackMessage$.class
+[debug] 	lila\slack\SlackMessage.class
+[debug] 	  C:\dev\lila\modules\slack\target\scala-2.13\classes\lila\slack\SlackMessage.class
+[debug] Done packaging.

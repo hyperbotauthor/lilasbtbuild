@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 80 products, 20 sources, 19 libraries
+[debug] current source = Set(${BASE}/modules/api/src/main/Cli.scala, ${BASE}/modules/api/src/main/UserApi.scala, ${BASE}/modules/api/src/main/LobbyApi.scala, ${BASE}/modules/api/src/main/AnnounceStore.scala, ${BASE}/modules/api/src/main/package.scala, ${BASE}/modules/api/src/main/Env.scala, ${BASE}/modules/api/src/main/InfluxEvent.scala, ${BASE}/modules/api/src/main/GameApi.scala, ${BASE}/modules/api/src/main/UserGameApi.scala, ${BASE}/modules/api/src/main/RealPlayer.scala, ${BASE}/modules/api/src/main/GameApiV2.scala, ${BASE}/modules/api/src/main/Mobile.scala, ${BASE}/modules/api/src/main/PersonalDataExport.scala, ${BASE}/modules/api/src/main/ReferrerRedirect.scala, ${BASE}/modules/api/src/main/EventStream.scala, ${BASE}/modules/api/src/main/LinkCheck.scala, ${BASE}/modules/api/src/main/PgnDump.scala, ${BASE}/modules/api/src/main/ApiConfig.scala, ${BASE}/modules/api/src/main/Context.scala, ${BASE}/modules/api/src/main/RoundApi.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

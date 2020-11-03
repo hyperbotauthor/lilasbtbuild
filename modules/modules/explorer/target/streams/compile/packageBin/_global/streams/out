@@ -1,0 +1,31 @@
+[debug] Packaging C:\dev\lila\modules\explorer\target\scala-2.13\explorer_2.13-3.2.jar ...
+[debug] Input file mappings:
+[debug] 	lila
+[debug] 	  C:\dev\lila\modules\explorer\target\scala-2.13\classes\lila
+[debug] 	lila\explorer
+[debug] 	  C:\dev\lila\modules\explorer\target\scala-2.13\classes\lila\explorer
+[debug] 	lila\explorer\Env$$anon$1$$anonfun$process$1.class
+[debug] 	  C:\dev\lila\modules\explorer\target\scala-2.13\classes\lila\explorer\Env$$anon$1$$anonfun$process$1.class
+[debug] 	lila\explorer\Env$$anon$1.class
+[debug] 	  C:\dev\lila\modules\explorer\target\scala-2.13\classes\lila\explorer\Env$$anon$1.class
+[debug] 	lila\explorer\Env$$anonfun$1.class
+[debug] 	  C:\dev\lila\modules\explorer\target\scala-2.13\classes\lila\explorer\Env$$anonfun$1.class
+[debug] 	lila\explorer\Env.class
+[debug] 	  C:\dev\lila\modules\explorer\target\scala-2.13\classes\lila\explorer\Env.class
+[debug] 	lila\explorer\ExplorerImporter.class
+[debug] 	  C:\dev\lila\modules\explorer\target\scala-2.13\classes\lila\explorer\ExplorerImporter.class
+[debug] 	lila\explorer\ExplorerIndexer$flowBuffer$$anonfun$apply$12.class
+[debug] 	  C:\dev\lila\modules\explorer\target\scala-2.13\classes\lila\explorer\ExplorerIndexer$flowBuffer$$anonfun$apply$12.class
+[debug] 	lila\explorer\ExplorerIndexer$flowBuffer$.class
+[debug] 	  C:\dev\lila\modules\explorer\target\scala-2.13\classes\lila\explorer\ExplorerIndexer$flowBuffer$.class
+[debug] 	lila\explorer\ExplorerIndexer.class
+[debug] 	  C:\dev\lila\modules\explorer\target\scala-2.13\classes\lila\explorer\ExplorerIndexer.class
+[debug] 	lila\explorer\InternalEndpoint$.class
+[debug] 	  C:\dev\lila\modules\explorer\target\scala-2.13\classes\lila\explorer\InternalEndpoint$.class
+[debug] 	lila\explorer\InternalEndpoint.class
+[debug] 	  C:\dev\lila\modules\explorer\target\scala-2.13\classes\lila\explorer\InternalEndpoint.class
+[debug] 	lila\explorer\package$.class
+[debug] 	  C:\dev\lila\modules\explorer\target\scala-2.13\classes\lila\explorer\package$.class
+[debug] 	lila\explorer\package.class
+[debug] 	  C:\dev\lila\modules\explorer\target\scala-2.13\classes\lila\explorer\package.class
+[debug] Done packaging.

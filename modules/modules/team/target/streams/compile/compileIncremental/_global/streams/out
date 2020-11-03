@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 54 products, 20 sources, 15 libraries
+[debug] current source = Set(${BASE}/modules/team/src/main/model.scala, ${BASE}/modules/team/src/main/MemberRepo.scala, ${BASE}/modules/team/src/main/Team.scala, ${BASE}/modules/team/src/main/Env.scala, ${BASE}/modules/team/src/main/TeamRepo.scala, ${BASE}/modules/team/src/main/TeamSocket.scala, ${BASE}/modules/team/src/main/TeamApi.scala, ${BASE}/modules/team/src/main/Cached.scala, ${BASE}/modules/team/src/main/Request.scala, ${BASE}/modules/team/src/main/TeamForm.scala, ${BASE}/modules/team/src/main/actorApi.scala, ${BASE}/modules/team/src/main/TeamMemberStream.scala, ${BASE}/modules/team/src/main/PaginatorBuilder.scala, ${BASE}/modules/team/src/main/package.scala, ${BASE}/modules/team/src/main/Cli.scala, ${BASE}/modules/team/src/main/Member.scala, ${BASE}/modules/team/src/main/JsonView.scala, ${BASE}/modules/team/src/main/Notifier.scala, ${BASE}/modules/team/src/main/BSONHandlers.scala, ${BASE}/modules/team/src/main/RequestRepo.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

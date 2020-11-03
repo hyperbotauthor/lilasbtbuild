@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 92 products, 20 sources, 19 libraries
+[debug] current source = Set(${BASE}/modules/puzzle/src/main/JsonView.scala, ${BASE}/modules/puzzle/src/main/Puzzle.scala, ${BASE}/modules/puzzle/src/main/PuzzleApi.scala, ${BASE}/modules/puzzle/src/main/Vote.scala, ${BASE}/modules/puzzle/src/main/PuzzleForm.scala, ${BASE}/modules/puzzle/src/main/TreeBuilder.scala, ${BASE}/modules/puzzle/src/main/Round.scala, ${BASE}/modules/puzzle/src/main/PuzzleBatch.scala, ${BASE}/modules/puzzle/src/main/Selector.scala, ${BASE}/modules/puzzle/src/main/Daily.scala, ${BASE}/modules/puzzle/src/main/GameJson.scala, ${BASE}/modules/puzzle/src/main/Line.scala, ${BASE}/modules/puzzle/src/main/Env.scala, ${BASE}/modules/puzzle/src/main/Finisher.scala, ${BASE}/modules/puzzle/src/main/AggregateVote.scala, ${BASE}/modules/puzzle/src/main/PuzzleHead.scala, ${BASE}/modules/puzzle/src/main/PuzzlePerf.scala, ${BASE}/modules/puzzle/src/main/PuzzleActivity.scala, ${BASE}/modules/puzzle/src/main/UserInfos.scala, ${BASE}/modules/puzzle/src/main/package.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

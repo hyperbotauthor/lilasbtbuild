@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 138 products, 20 sources, 20 libraries
+[debug] current source = Set(${BASE}/modules/fishnet/src/main/UciToPgn.scala, ${BASE}/modules/fishnet/src/main/Client.scala, ${BASE}/modules/fishnet/src/main/Analyser.scala, ${BASE}/modules/fishnet/src/main/FishnetEvalCache.scala, ${BASE}/modules/fishnet/src/main/Limiter.scala, ${BASE}/modules/fishnet/src/main/Monitor.scala, ${BASE}/modules/fishnet/src/main/FishnetRepo.scala, ${BASE}/modules/fishnet/src/main/Env.scala, ${BASE}/modules/fishnet/src/main/SemVer.scala, ${BASE}/modules/fishnet/src/main/Cleaner.scala, ${BASE}/modules/fishnet/src/main/FishnetRedis.scala, ${BASE}/modules/fishnet/src/main/JsonApi.scala, ${BASE}/modules/fishnet/src/main/FishnetApi.scala, ${BASE}/modules/fishnet/src/main/AiPerf.scala, ${BASE}/modules/fishnet/src/main/Work.scala, ${BASE}/modules/fishnet/src/main/BSONHandlers.scala, ${BASE}/modules/fishnet/src/main/MainWatcher.scala, ${BASE}/modules/fishnet/src/main/package.scala, ${BASE}/modules/fishnet/src/main/AnalysisBuilder.scala, ${BASE}/modules/fishnet/src/main/Player.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

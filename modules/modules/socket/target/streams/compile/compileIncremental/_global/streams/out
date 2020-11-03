@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 66 products, 10 sources, 11 libraries
+[debug] current source = Set(${BASE}/modules/socket/src/main/RemoteSocket.scala, ${BASE}/modules/socket/src/main/Step.scala, ${BASE}/modules/socket/src/main/Socket.scala, ${BASE}/modules/socket/src/main/package.scala, ${BASE}/modules/socket/src/main/AnaDests.scala, ${BASE}/modules/socket/src/main/AnaDrop.scala, ${BASE}/modules/socket/src/main/AnaMove.scala, ${BASE}/modules/socket/src/main/model.scala, ${BASE}/modules/socket/src/main/UserLagCache.scala, ${BASE}/modules/socket/src/main/Env.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

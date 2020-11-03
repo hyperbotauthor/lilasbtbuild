@@ -1,0 +1,37 @@
+[debug] Packaging C:\dev\lila\modules\studySearch\target\scala-2.13\studysearch_2.13-3.2.jar ...
+[debug] Input file mappings:
+[debug] 	lila
+[debug] 	  C:\dev\lila\modules\studySearch\target\scala-2.13\classes\lila
+[debug] 	lila\studySearch
+[debug] 	  C:\dev\lila\modules\studySearch\target\scala-2.13\classes\lila\studySearch
+[debug] 	lila\studySearch\Env$$anon$1.class
+[debug] 	  C:\dev\lila\modules\studySearch\target\scala-2.13\classes\lila\studySearch\Env$$anon$1.class
+[debug] 	lila\studySearch\Env$$anon$2$$anonfun$process$1.class
+[debug] 	  C:\dev\lila\modules\studySearch\target\scala-2.13\classes\lila\studySearch\Env$$anon$2$$anonfun$process$1.class
+[debug] 	lila\studySearch\Env$$anon$2.class
+[debug] 	  C:\dev\lila\modules\studySearch\target\scala-2.13\classes\lila\studySearch\Env$$anon$2.class
+[debug] 	lila\studySearch\Env$$anonfun$1.class
+[debug] 	  C:\dev\lila\modules\studySearch\target\scala-2.13\classes\lila\studySearch\Env$$anonfun$1.class
+[debug] 	lila\studySearch\Env.class
+[debug] 	  C:\dev\lila\modules\studySearch\target\scala-2.13\classes\lila\studySearch\Env.class
+[debug] 	lila\studySearch\Fields$.class
+[debug] 	  C:\dev\lila\modules\studySearch\target\scala-2.13\classes\lila\studySearch\Fields$.class
+[debug] 	lila\studySearch\Fields$chapter$.class
+[debug] 	  C:\dev\lila\modules\studySearch\target\scala-2.13\classes\lila\studySearch\Fields$chapter$.class
+[debug] 	lila\studySearch\Fields.class
+[debug] 	  C:\dev\lila\modules\studySearch\target\scala-2.13\classes\lila\studySearch\Fields.class
+[debug] 	lila\studySearch\package$.class
+[debug] 	  C:\dev\lila\modules\studySearch\target\scala-2.13\classes\lila\studySearch\package$.class
+[debug] 	lila\studySearch\package.class
+[debug] 	  C:\dev\lila\modules\studySearch\target\scala-2.13\classes\lila\studySearch\package.class
+[debug] 	lila\studySearch\Query$.class
+[debug] 	  C:\dev\lila\modules\studySearch\target\scala-2.13\classes\lila\studySearch\Query$.class
+[debug] 	lila\studySearch\Query.class
+[debug] 	  C:\dev\lila\modules\studySearch\target\scala-2.13\classes\lila\studySearch\Query.class
+[debug] 	lila\studySearch\StudySearchApi$$anonfun$1.class
+[debug] 	  C:\dev\lila\modules\studySearch\target\scala-2.13\classes\lila\studySearch\StudySearchApi$$anonfun$1.class
+[debug] 	lila\studySearch\StudySearchApi$$anonfun$toDoc$1.class
+[debug] 	  C:\dev\lila\modules\studySearch\target\scala-2.13\classes\lila\studySearch\StudySearchApi$$anonfun$toDoc$1.class
+[debug] 	lila\studySearch\StudySearchApi.class
+[debug] 	  C:\dev\lila\modules\studySearch\target\scala-2.13\classes\lila\studySearch\StudySearchApi.class
+[debug] Done packaging.

@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 67 products, 14 sources, 16 libraries
+[debug] current source = Set(${BASE}/modules/simul/src/main/Env.scala, ${BASE}/modules/simul/src/main/SimulApplicant.scala, ${BASE}/modules/simul/src/main/package.scala, ${BASE}/modules/simul/src/main/Simul.scala, ${BASE}/modules/simul/src/main/SimulApi.scala, ${BASE}/modules/simul/src/main/JsonView.scala, ${BASE}/modules/simul/src/main/actorApi.scala, ${BASE}/modules/simul/src/main/SimulSocket.scala, ${BASE}/modules/simul/src/main/SimulStatus.scala, ${BASE}/modules/simul/src/main/SimulClock.scala, ${BASE}/modules/simul/src/main/SimulPlayer.scala, ${BASE}/modules/simul/src/main/SimulForm.scala, ${BASE}/modules/simul/src/main/SimulRepo.scala, ${BASE}/modules/simul/src/main/SimulPairing.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

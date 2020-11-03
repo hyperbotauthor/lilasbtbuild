@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 67 products, 13 sources, 14 libraries
+[debug] current source = Set(${BASE}/modules/msg/src/main/model.scala, ${BASE}/modules/msg/src/main/MsgSearch.scala, ${BASE}/modules/msg/src/main/package.scala, ${BASE}/modules/msg/src/main/MsgSecurity.scala, ${BASE}/modules/msg/src/main/MsgThread.scala, ${BASE}/modules/msg/src/main/MsgPreset.scala, ${BASE}/modules/msg/src/main/MsgCompat.scala, ${BASE}/modules/msg/src/main/MsgJson.scala, ${BASE}/modules/msg/src/main/BsonHandlers.scala, ${BASE}/modules/msg/src/main/MsgApi.scala, ${BASE}/modules/msg/src/main/MsgNotify.scala, ${BASE}/modules/msg/src/main/Msg.scala, ${BASE}/modules/msg/src/main/Env.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

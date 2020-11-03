@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 75 products, 18 sources, 17 libraries
+[debug] current source = Set(${BASE}/modules/mod/src/main/Modlog.scala, ${BASE}/modules/mod/src/main/AssessApi.scala, ${BASE}/modules/mod/src/main/UserSearch.scala, ${BASE}/modules/mod/src/main/ModlogApi.scala, ${BASE}/modules/mod/src/main/Env.scala, ${BASE}/modules/mod/src/main/ModApi.scala, ${BASE}/modules/mod/src/main/ModStream.scala, ${BASE}/modules/mod/src/main/Gamify.scala, ${BASE}/modules/mod/src/main/model.scala, ${BASE}/modules/mod/src/main/Boosting.scala, ${BASE}/modules/mod/src/main/PublicChat.scala, ${BASE}/modules/mod/src/main/Impersonate.scala, ${BASE}/modules/mod/src/main/ModNotifier.scala, ${BASE}/modules/mod/src/main/Inquiry.scala, ${BASE}/modules/mod/src/main/Presets.scala, ${BASE}/modules/mod/src/main/RatingRefund.scala, ${BASE}/modules/mod/src/main/package.scala, ${BASE}/modules/mod/src/main/AutoAnalysis.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

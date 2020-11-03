@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 107 products, 14 sources, 15 libraries
+[debug] current source = Set(${BASE}/modules/lobby/src/main/Seek.scala, ${BASE}/modules/lobby/src/main/HookRepo.scala, ${BASE}/modules/lobby/src/main/Env.scala, ${BASE}/modules/lobby/src/main/LobbyTrouper.scala, ${BASE}/modules/lobby/src/main/LobbySocket.scala, ${BASE}/modules/lobby/src/main/BoardApiHookStream.scala, ${BASE}/modules/lobby/src/main/Hook.scala, ${BASE}/modules/lobby/src/main/Color.scala, ${BASE}/modules/lobby/src/main/AbortListener.scala, ${BASE}/modules/lobby/src/main/SeekApi.scala, ${BASE}/modules/lobby/src/main/package.scala, ${BASE}/modules/lobby/src/main/LobbyUser.scala, ${BASE}/modules/lobby/src/main/Biter.scala, ${BASE}/modules/lobby/src/main/actorApi.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

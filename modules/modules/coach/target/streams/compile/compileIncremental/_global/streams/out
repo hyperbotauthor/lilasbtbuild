@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 69 products, 11 sources, 13 libraries
+[debug] current source = Set(${BASE}/modules/coach/src/main/BsonHandlers.scala, ${BASE}/modules/coach/src/main/CoachProfile.scala, ${BASE}/modules/coach/src/main/CoachApi.scala, ${BASE}/modules/coach/src/main/Env.scala, ${BASE}/modules/coach/src/main/CoachReview.scala, ${BASE}/modules/coach/src/main/CoachPager.scala, ${BASE}/modules/coach/src/main/package.scala, ${BASE}/modules/coach/src/main/Coach.scala, ${BASE}/modules/coach/src/main/UrlList.scala, ${BASE}/modules/coach/src/main/CoachProfileForm.scala, ${BASE}/modules/coach/src/main/CoachReviewForm.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

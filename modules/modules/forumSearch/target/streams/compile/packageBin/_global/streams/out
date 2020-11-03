@@ -1,0 +1,35 @@
+[debug] Packaging C:\dev\lila\modules\forumSearch\target\scala-2.13\forumsearch_2.13-3.2.jar ...
+[debug] Input file mappings:
+[debug] 	lila
+[debug] 	  C:\dev\lila\modules\forumSearch\target\scala-2.13\classes\lila
+[debug] 	lila\forumSearch
+[debug] 	  C:\dev\lila\modules\forumSearch\target\scala-2.13\classes\lila\forumSearch
+[debug] 	lila\forumSearch\Env$$anon$1.class
+[debug] 	  C:\dev\lila\modules\forumSearch\target\scala-2.13\classes\lila\forumSearch\Env$$anon$1.class
+[debug] 	lila\forumSearch\Env$$anon$2$$anonfun$process$1.class
+[debug] 	  C:\dev\lila\modules\forumSearch\target\scala-2.13\classes\lila\forumSearch\Env$$anon$2$$anonfun$process$1.class
+[debug] 	lila\forumSearch\Env$$anon$2.class
+[debug] 	  C:\dev\lila\modules\forumSearch\target\scala-2.13\classes\lila\forumSearch\Env$$anon$2.class
+[debug] 	lila\forumSearch\Env$$anon$3$$anonfun$receive$1.class
+[debug] 	  C:\dev\lila\modules\forumSearch\target\scala-2.13\classes\lila\forumSearch\Env$$anon$3$$anonfun$receive$1.class
+[debug] 	lila\forumSearch\Env$$anon$3.class
+[debug] 	  C:\dev\lila\modules\forumSearch\target\scala-2.13\classes\lila\forumSearch\Env$$anon$3.class
+[debug] 	lila\forumSearch\Env.class
+[debug] 	  C:\dev\lila\modules\forumSearch\target\scala-2.13\classes\lila\forumSearch\Env.class
+[debug] 	lila\forumSearch\Fields$.class
+[debug] 	  C:\dev\lila\modules\forumSearch\target\scala-2.13\classes\lila\forumSearch\Fields$.class
+[debug] 	lila\forumSearch\Fields.class
+[debug] 	  C:\dev\lila\modules\forumSearch\target\scala-2.13\classes\lila\forumSearch\Fields.class
+[debug] 	lila\forumSearch\ForumSearchApi.class
+[debug] 	  C:\dev\lila\modules\forumSearch\target\scala-2.13\classes\lila\forumSearch\ForumSearchApi.class
+[debug] 	lila\forumSearch\ForumSearchConfig.class
+[debug] 	  C:\dev\lila\modules\forumSearch\target\scala-2.13\classes\lila\forumSearch\ForumSearchConfig.class
+[debug] 	lila\forumSearch\package$.class
+[debug] 	  C:\dev\lila\modules\forumSearch\target\scala-2.13\classes\lila\forumSearch\package$.class
+[debug] 	lila\forumSearch\package.class
+[debug] 	  C:\dev\lila\modules\forumSearch\target\scala-2.13\classes\lila\forumSearch\package.class
+[debug] 	lila\forumSearch\Query$.class
+[debug] 	  C:\dev\lila\modules\forumSearch\target\scala-2.13\classes\lila\forumSearch\Query$.class
+[debug] 	lila\forumSearch\Query.class
+[debug] 	  C:\dev\lila\modules\forumSearch\target\scala-2.13\classes\lila\forumSearch\Query.class
+[debug] Done packaging.

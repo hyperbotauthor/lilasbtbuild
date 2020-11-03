@@ -1,0 +1,33 @@
+[debug] Packaging C:\dev\lila\modules\importer\target\scala-2.13\importer_2.13-3.2.jar ...
+[debug] Input file mappings:
+[debug] 	lila
+[debug] 	  C:\dev\lila\modules\importer\target\scala-2.13\classes\lila
+[debug] 	lila\importer
+[debug] 	  C:\dev\lila\modules\importer\target\scala-2.13\classes\lila\importer
+[debug] 	lila\importer\Chess960$.class
+[debug] 	  C:\dev\lila\modules\importer\target\scala-2.13\classes\lila\importer\Chess960$.class
+[debug] 	lila\importer\Chess960.class
+[debug] 	  C:\dev\lila\modules\importer\target\scala-2.13\classes\lila\importer\Chess960.class
+[debug] 	lila\importer\Env.class
+[debug] 	  C:\dev\lila\modules\importer\target\scala-2.13\classes\lila\importer\Env.class
+[debug] 	lila\importer\ImportData$.class
+[debug] 	  C:\dev\lila\modules\importer\target\scala-2.13\classes\lila\importer\ImportData$.class
+[debug] 	lila\importer\ImportData.class
+[debug] 	  C:\dev\lila\modules\importer\target\scala-2.13\classes\lila\importer\ImportData.class
+[debug] 	lila\importer\Importer.class
+[debug] 	  C:\dev\lila\modules\importer\target\scala-2.13\classes\lila\importer\Importer.class
+[debug] 	lila\importer\ImporterForm.class
+[debug] 	  C:\dev\lila\modules\importer\target\scala-2.13\classes\lila\importer\ImporterForm.class
+[debug] 	lila\importer\package$.class
+[debug] 	  C:\dev\lila\modules\importer\target\scala-2.13\classes\lila\importer\package$.class
+[debug] 	lila\importer\package.class
+[debug] 	  C:\dev\lila\modules\importer\target\scala-2.13\classes\lila\importer\package.class
+[debug] 	lila\importer\Preprocessed$.class
+[debug] 	  C:\dev\lila\modules\importer\target\scala-2.13\classes\lila\importer\Preprocessed$.class
+[debug] 	lila\importer\Preprocessed.class
+[debug] 	  C:\dev\lila\modules\importer\target\scala-2.13\classes\lila\importer\Preprocessed.class
+[debug] 	lila\importer\TagResult$.class
+[debug] 	  C:\dev\lila\modules\importer\target\scala-2.13\classes\lila\importer\TagResult$.class
+[debug] 	lila\importer\TagResult.class
+[debug] 	  C:\dev\lila\modules\importer\target\scala-2.13\classes\lila\importer\TagResult.class
+[debug] Done packaging.

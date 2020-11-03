@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 37 products, 10 sources, 15 libraries
+[debug] current source = Set(${BASE}/modules/irwin/src/main/IrwinRequest.scala, ${BASE}/modules/irwin/src/main/Env.scala, ${BASE}/modules/irwin/src/main/BSONHandlers.scala, ${BASE}/modules/irwin/src/main/package.scala, ${BASE}/modules/irwin/src/main/IrwinReport.scala, ${BASE}/modules/irwin/src/main/JSONHandlers.scala, ${BASE}/modules/irwin/src/main/IrwinDashboard.scala, ${BASE}/modules/irwin/src/main/IrwinThresholds.scala, ${BASE}/modules/irwin/src/main/IrwinStream.scala, ${BASE}/modules/irwin/src/main/IrwinApi.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

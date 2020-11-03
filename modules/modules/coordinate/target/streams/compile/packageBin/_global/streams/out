@@ -1,0 +1,29 @@
+[debug] Packaging C:\dev\lila\modules\coordinate\target\scala-2.13\coordinate_2.13-3.2.jar ...
+[debug] Input file mappings:
+[debug] 	lila
+[debug] 	  C:\dev\lila\modules\coordinate\target\scala-2.13\classes\lila
+[debug] 	lila\coordinate
+[debug] 	  C:\dev\lila\modules\coordinate\target\scala-2.13\classes\lila\coordinate
+[debug] 	lila\coordinate\CoordinateApi$$anon$1.class
+[debug] 	  C:\dev\lila\modules\coordinate\target\scala-2.13\classes\lila\coordinate\CoordinateApi$$anon$1.class
+[debug] 	lila\coordinate\CoordinateApi.class
+[debug] 	  C:\dev\lila\modules\coordinate\target\scala-2.13\classes\lila\coordinate\CoordinateApi.class
+[debug] 	lila\coordinate\CoordinateForm$.class
+[debug] 	  C:\dev\lila\modules\coordinate\target\scala-2.13\classes\lila\coordinate\CoordinateForm$.class
+[debug] 	lila\coordinate\CoordinateForm$ScoreData$.class
+[debug] 	  C:\dev\lila\modules\coordinate\target\scala-2.13\classes\lila\coordinate\CoordinateForm$ScoreData$.class
+[debug] 	lila\coordinate\CoordinateForm$ScoreData.class
+[debug] 	  C:\dev\lila\modules\coordinate\target\scala-2.13\classes\lila\coordinate\CoordinateForm$ScoreData.class
+[debug] 	lila\coordinate\CoordinateForm.class
+[debug] 	  C:\dev\lila\modules\coordinate\target\scala-2.13\classes\lila\coordinate\CoordinateForm.class
+[debug] 	lila\coordinate\Env.class
+[debug] 	  C:\dev\lila\modules\coordinate\target\scala-2.13\classes\lila\coordinate\Env.class
+[debug] 	lila\coordinate\package$.class
+[debug] 	  C:\dev\lila\modules\coordinate\target\scala-2.13\classes\lila\coordinate\package$.class
+[debug] 	lila\coordinate\package.class
+[debug] 	  C:\dev\lila\modules\coordinate\target\scala-2.13\classes\lila\coordinate\package.class
+[debug] 	lila\coordinate\Score$.class
+[debug] 	  C:\dev\lila\modules\coordinate\target\scala-2.13\classes\lila\coordinate\Score$.class
+[debug] 	lila\coordinate\Score.class
+[debug] 	  C:\dev\lila\modules\coordinate\target\scala-2.13\classes\lila\coordinate\Score.class
+[debug] Done packaging.

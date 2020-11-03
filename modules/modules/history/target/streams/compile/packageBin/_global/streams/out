@@ -1,0 +1,27 @@
+[debug] Packaging C:\dev\lila\modules\history\target\scala-2.13\history_2.13-3.2.jar ...
+[debug] Input file mappings:
+[debug] 	lila
+[debug] 	  C:\dev\lila\modules\history\target\scala-2.13\classes\lila
+[debug] 	lila\history
+[debug] 	  C:\dev\lila\modules\history\target\scala-2.13\classes\lila\history
+[debug] 	lila\history\Env.class
+[debug] 	  C:\dev\lila\modules\history\target\scala-2.13\classes\lila\history\Env.class
+[debug] 	lila\history\History$$anon$1.class
+[debug] 	  C:\dev\lila\modules\history\target\scala-2.13\classes\lila\history\History$$anon$1.class
+[debug] 	lila\history\History$$anon$2.class
+[debug] 	  C:\dev\lila\modules\history\target\scala-2.13\classes\lila\history\History$$anon$2.class
+[debug] 	lila\history\History$.class
+[debug] 	  C:\dev\lila\modules\history\target\scala-2.13\classes\lila\history\History$.class
+[debug] 	lila\history\History.class
+[debug] 	  C:\dev\lila\modules\history\target\scala-2.13\classes\lila\history\History.class
+[debug] 	lila\history\HistoryApi$lastWeekTopRating$.class
+[debug] 	  C:\dev\lila\modules\history\target\scala-2.13\classes\lila\history\HistoryApi$lastWeekTopRating$.class
+[debug] 	lila\history\HistoryApi.class
+[debug] 	  C:\dev\lila\modules\history\target\scala-2.13\classes\lila\history\HistoryApi.class
+[debug] 	lila\history\package$.class
+[debug] 	  C:\dev\lila\modules\history\target\scala-2.13\classes\lila\history\package$.class
+[debug] 	lila\history\package.class
+[debug] 	  C:\dev\lila\modules\history\target\scala-2.13\classes\lila\history\package.class
+[debug] 	lila\history\RatingChartApi.class
+[debug] 	  C:\dev\lila\modules\history\target\scala-2.13\classes\lila\history\RatingChartApi.class
+[debug] Done packaging.

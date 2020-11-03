@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 89 products, 10 sources, 16 libraries
+[debug] current source = Set(${BASE}/modules/chat/src/main/ChatApi.scala, ${BASE}/modules/chat/src/main/actorApi.scala, ${BASE}/modules/chat/src/main/Line.scala, ${BASE}/modules/chat/src/main/ChatPanic.scala, ${BASE}/modules/chat/src/main/JsonView.scala, ${BASE}/modules/chat/src/main/Env.scala, ${BASE}/modules/chat/src/main/model.scala, ${BASE}/modules/chat/src/main/Chat.scala, ${BASE}/modules/chat/src/main/package.scala, ${BASE}/modules/chat/src/main/ChatTimeout.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

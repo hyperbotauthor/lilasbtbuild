@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 14 products, 5 sources, 13 libraries
+[debug] current source = Set(${BASE}/modules/forumSearch/src/main/Env.scala, ${BASE}/modules/forumSearch/src/main/Fields.scala, ${BASE}/modules/forumSearch/src/main/Query.scala, ${BASE}/modules/forumSearch/src/main/ForumSearchApi.scala, ${BASE}/modules/forumSearch/src/main/package.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

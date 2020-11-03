@@ -1,0 +1,43 @@
+[debug] Packaging C:\dev\lila\modules\bot\target\scala-2.13\bot_2.13-3.2.jar ...
+[debug] Input file mappings:
+[debug] 	lila
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila
+[debug] 	lila\bot
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot
+[debug] 	lila\bot\BotForm$.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\BotForm$.class
+[debug] 	lila\bot\BotForm$ChatData$.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\BotForm$ChatData$.class
+[debug] 	lila\bot\BotForm$ChatData.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\BotForm$ChatData.class
+[debug] 	lila\bot\BotForm.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\BotForm.class
+[debug] 	lila\bot\BotJsonView.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\BotJsonView.class
+[debug] 	lila\bot\BotPlayer.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\BotPlayer.class
+[debug] 	lila\bot\Env.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\Env.class
+[debug] 	lila\bot\GameStateStream$$anon$1$$anonfun$receive$1.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\GameStateStream$$anon$1$$anonfun$receive$1.class
+[debug] 	lila\bot\GameStateStream$$anon$1.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\GameStateStream$$anon$1.class
+[debug] 	lila\bot\GameStateStream$.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\GameStateStream$.class
+[debug] 	lila\bot\GameStateStream$NewConnectionDetected$.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\GameStateStream$NewConnectionDetected$.class
+[debug] 	lila\bot\GameStateStream$SetOnline$.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\GameStateStream$SetOnline$.class
+[debug] 	lila\bot\GameStateStream$User$.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\GameStateStream$User$.class
+[debug] 	lila\bot\GameStateStream$User.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\GameStateStream$User.class
+[debug] 	lila\bot\GameStateStream.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\GameStateStream.class
+[debug] 	lila\bot\OnlineApiUsers.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\OnlineApiUsers.class
+[debug] 	lila\bot\package$.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\package$.class
+[debug] 	lila\bot\package.class
+[debug] 	  C:\dev\lila\modules\bot\target\scala-2.13\classes\lila\bot\package.class
+[debug] Done packaging.

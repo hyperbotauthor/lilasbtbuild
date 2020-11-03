@@ -1,0 +1,33 @@
+[debug] Packaging C:\dev\lila\modules\bookmark\target\scala-2.13\bookmark_2.13-3.2.jar ...
+[debug] Input file mappings:
+[debug] 	lila
+[debug] 	  C:\dev\lila\modules\bookmark\target\scala-2.13\classes\lila
+[debug] 	lila\bookmark
+[debug] 	  C:\dev\lila\modules\bookmark\target\scala-2.13\classes\lila\bookmark
+[debug] 	lila\bookmark\Bookmark$.class
+[debug] 	  C:\dev\lila\modules\bookmark\target\scala-2.13\classes\lila\bookmark\Bookmark$.class
+[debug] 	lila\bookmark\Bookmark.class
+[debug] 	  C:\dev\lila\modules\bookmark\target\scala-2.13\classes\lila\bookmark\Bookmark.class
+[debug] 	lila\bookmark\BookmarkApi$$anonfun$1.class
+[debug] 	  C:\dev\lila\modules\bookmark\target\scala-2.13\classes\lila\bookmark\BookmarkApi$$anonfun$1.class
+[debug] 	lila\bookmark\BookmarkApi.class
+[debug] 	  C:\dev\lila\modules\bookmark\target\scala-2.13\classes\lila\bookmark\BookmarkApi.class
+[debug] 	lila\bookmark\BookmarkConfig.class
+[debug] 	  C:\dev\lila\modules\bookmark\target\scala-2.13\classes\lila\bookmark\BookmarkConfig.class
+[debug] 	lila\bookmark\Env$$anon$1.class
+[debug] 	  C:\dev\lila\modules\bookmark\target\scala-2.13\classes\lila\bookmark\Env$$anon$1.class
+[debug] 	lila\bookmark\Env$$anon$2$$anonfun$receive$1.class
+[debug] 	  C:\dev\lila\modules\bookmark\target\scala-2.13\classes\lila\bookmark\Env$$anon$2$$anonfun$receive$1.class
+[debug] 	lila\bookmark\Env$$anon$2.class
+[debug] 	  C:\dev\lila\modules\bookmark\target\scala-2.13\classes\lila\bookmark\Env$$anon$2.class
+[debug] 	lila\bookmark\Env.class
+[debug] 	  C:\dev\lila\modules\bookmark\target\scala-2.13\classes\lila\bookmark\Env.class
+[debug] 	lila\bookmark\package$.class
+[debug] 	  C:\dev\lila\modules\bookmark\target\scala-2.13\classes\lila\bookmark\package$.class
+[debug] 	lila\bookmark\package.class
+[debug] 	  C:\dev\lila\modules\bookmark\target\scala-2.13\classes\lila\bookmark\package.class
+[debug] 	lila\bookmark\PaginatorBuilder$UserAdapter.class
+[debug] 	  C:\dev\lila\modules\bookmark\target\scala-2.13\classes\lila\bookmark\PaginatorBuilder$UserAdapter.class
+[debug] 	lila\bookmark\PaginatorBuilder.class
+[debug] 	  C:\dev\lila\modules\bookmark\target\scala-2.13\classes\lila\bookmark\PaginatorBuilder.class
+[debug] Done packaging.

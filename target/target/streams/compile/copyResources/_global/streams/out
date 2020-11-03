@@ -1,0 +1,7 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\dev\lila\conf\application.conf,C:\dev\lila\target\scala-2.13\classes\application.conf)
+[debug] 	(C:\dev\lila\conf\application.conf.default,C:\dev\lila\target\scala-2.13\classes\application.conf.default)
+[debug] 	(C:\dev\lila\conf\base.conf,C:\dev\lila\target\scala-2.13\classes\base.conf)
+[debug] 	(C:\dev\lila\conf\logback.xml,C:\dev\lila\target\scala-2.13\classes\logback.xml)
+[debug] 	(C:\dev\lila\conf\prod-logger.xml,C:\dev\lila\target\scala-2.13\classes\prod-logger.xml)
+[debug] 	(C:\dev\lila\conf\routes,C:\dev\lila\target\scala-2.13\classes\routes)

@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 53 products, 10 sources, 10 libraries
+[debug] current source = Set(${BASE}/modules/pool/src/main/HookThieve.scala, ${BASE}/modules/pool/src/main/Env.scala, ${BASE}/modules/pool/src/main/PoolActor.scala, ${BASE}/modules/pool/src/main/PoolApi.scala, ${BASE}/modules/pool/src/main/PoolConfig.scala, ${BASE}/modules/pool/src/main/PoolMember.scala, ${BASE}/modules/pool/src/main/MatchMaking.scala, ${BASE}/modules/pool/src/main/PoolList.scala, ${BASE}/modules/pool/src/main/GameStarter.scala, ${BASE}/modules/pool/src/main/package.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

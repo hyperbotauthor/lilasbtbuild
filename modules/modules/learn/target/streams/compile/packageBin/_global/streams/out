@@ -1,0 +1,41 @@
+[debug] Packaging C:\dev\lila\modules\learn\target\scala-2.13\learn_2.13-3.2.jar ...
+[debug] Input file mappings:
+[debug] 	lila
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila
+[debug] 	lila\learn
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn
+[debug] 	lila\learn\BSONHandlers$$anon$1.class
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn\BSONHandlers$$anon$1.class
+[debug] 	lila\learn\BSONHandlers$.class
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn\BSONHandlers$.class
+[debug] 	lila\learn\BSONHandlers.class
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn\BSONHandlers.class
+[debug] 	lila\learn\Env.class
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn\Env.class
+[debug] 	lila\learn\JSONHandlers$.class
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn\JSONHandlers$.class
+[debug] 	lila\learn\JSONHandlers.class
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn\JSONHandlers.class
+[debug] 	lila\learn\LearnApi.class
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn\LearnApi.class
+[debug] 	lila\learn\LearnProgress$.class
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn\LearnProgress$.class
+[debug] 	lila\learn\LearnProgress$Id$.class
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn\LearnProgress$Id$.class
+[debug] 	lila\learn\LearnProgress$Id.class
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn\LearnProgress$Id.class
+[debug] 	lila\learn\LearnProgress.class
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn\LearnProgress.class
+[debug] 	lila\learn\package$.class
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn\package$.class
+[debug] 	lila\learn\package.class
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn\package.class
+[debug] 	lila\learn\StageProgress$.class
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn\StageProgress$.class
+[debug] 	lila\learn\StageProgress$Score$.class
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn\StageProgress$Score$.class
+[debug] 	lila\learn\StageProgress$Score.class
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn\StageProgress$Score.class
+[debug] 	lila\learn\StageProgress.class
+[debug] 	  C:\dev\lila\modules\learn\target\scala-2.13\classes\lila\learn\StageProgress.class
+[debug] Done packaging.

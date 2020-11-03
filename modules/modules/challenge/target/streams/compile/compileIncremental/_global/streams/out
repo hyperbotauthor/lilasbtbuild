@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 87 products, 12 sources, 13 libraries
+[debug] current source = Set(${BASE}/modules/challenge/src/main/Challenge.scala, ${BASE}/modules/challenge/src/main/BSONHandlers.scala, ${BASE}/modules/challenge/src/main/ChallengeApi.scala, ${BASE}/modules/challenge/src/main/model.scala, ${BASE}/modules/challenge/src/main/ChallengeSocket.scala, ${BASE}/modules/challenge/src/main/Joiner.scala, ${BASE}/modules/challenge/src/main/JsonView.scala, ${BASE}/modules/challenge/src/main/ChallengeGranter.scala, ${BASE}/modules/challenge/src/main/Env.scala, ${BASE}/modules/challenge/src/main/ChallengeMaker.scala, ${BASE}/modules/challenge/src/main/ChallengeRepo.scala, ${BASE}/modules/challenge/src/main/package.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

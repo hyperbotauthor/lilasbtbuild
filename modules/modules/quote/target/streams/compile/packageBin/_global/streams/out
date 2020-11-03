@@ -1,0 +1,11 @@
+[debug] Packaging C:\dev\lila\modules\quote\target\scala-2.13\quote_2.13-3.2.jar ...
+[debug] Input file mappings:
+[debug] 	lila
+[debug] 	  C:\dev\lila\modules\quote\target\scala-2.13\classes\lila
+[debug] 	lila\quote
+[debug] 	  C:\dev\lila\modules\quote\target\scala-2.13\classes\lila\quote
+[debug] 	lila\quote\Quote$.class
+[debug] 	  C:\dev\lila\modules\quote\target\scala-2.13\classes\lila\quote\Quote$.class
+[debug] 	lila\quote\Quote.class
+[debug] 	  C:\dev\lila\modules\quote\target\scala-2.13\classes\lila\quote\Quote.class
+[debug] Done packaging.

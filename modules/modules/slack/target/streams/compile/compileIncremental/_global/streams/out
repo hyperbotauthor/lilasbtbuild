@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 12 products, 5 sources, 9 libraries
+[debug] current source = Set(${BASE}/modules/slack/src/main/package.scala, ${BASE}/modules/slack/src/main/SlackClient.scala, ${BASE}/modules/slack/src/main/Env.scala, ${BASE}/modules/slack/src/main/SlackMessage.scala, ${BASE}/modules/slack/src/main/SlackApi.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 75 products, 19 sources, 18 libraries
+[debug] current source = Set(${BASE}/modules/forum/src/main/Post.scala, ${BASE}/modules/forum/src/main/ForumForm.scala, ${BASE}/modules/forum/src/main/package.scala, ${BASE}/modules/forum/src/main/BSONHandlers.scala, ${BASE}/modules/forum/src/main/actorApi.scala, ${BASE}/modules/forum/src/main/MentionNotifier.scala, ${BASE}/modules/forum/src/main/Granter.scala, ${BASE}/modules/forum/src/main/model.scala, ${BASE}/modules/forum/src/main/Recent.scala, ${BASE}/modules/forum/src/main/Topic.scala, ${BASE}/modules/forum/src/main/CategRepo.scala, ${BASE}/modules/forum/src/main/DetectLanguage.scala, ${BASE}/modules/forum/src/main/Categ.scala, ${BASE}/modules/forum/src/main/Env.scala, ${BASE}/modules/forum/src/main/PostApi.scala, ${BASE}/modules/forum/src/main/TopicRepo.scala, ${BASE}/modules/forum/src/main/PostRepo.scala, ${BASE}/modules/forum/src/main/TopicApi.scala, ${BASE}/modules/forum/src/main/CategApi.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

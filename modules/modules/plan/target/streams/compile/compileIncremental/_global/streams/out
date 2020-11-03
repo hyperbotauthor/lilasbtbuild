@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 115 products, 16 sources, 18 libraries
+[debug] current source = Set(${BASE}/modules/plan/src/main/StripeClient.scala, ${BASE}/modules/plan/src/main/CustomerInfo.scala, ${BASE}/modules/plan/src/main/Charge.scala, ${BASE}/modules/plan/src/main/JsonHandlers.scala, ${BASE}/modules/plan/src/main/Env.scala, ${BASE}/modules/plan/src/main/PlanNotifier.scala, ${BASE}/modules/plan/src/main/package.scala, ${BASE}/modules/plan/src/main/Webhook.scala, ${BASE}/modules/plan/src/main/Checkout.scala, ${BASE}/modules/plan/src/main/PlanApi.scala, ${BASE}/modules/plan/src/main/Patron.scala, ${BASE}/modules/plan/src/main/model.scala, ${BASE}/modules/plan/src/main/PlanForm.scala, ${BASE}/modules/plan/src/main/BsonHandlers.scala, ${BASE}/modules/plan/src/main/MonthlyGoal.scala, ${BASE}/modules/plan/src/main/Expiration.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

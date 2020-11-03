@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 42 products, 11 sources, 19 libraries
+[debug] current source = Set(${BASE}/modules/push/src/main/WebPush.scala, ${BASE}/modules/push/src/main/WebSubscription.scala, ${BASE}/modules/push/src/main/WebSubscriptionApi.scala, ${BASE}/modules/push/src/main/Env.scala, ${BASE}/modules/push/src/main/FirebasePush.scala, ${BASE}/modules/push/src/main/Device.scala, ${BASE}/modules/push/src/main/DeviceApi.scala, ${BASE}/modules/push/src/main/PushApi.scala, ${BASE}/modules/push/src/main/OneSignalPush.scala, ${BASE}/modules/push/src/main/package.scala, ${BASE}/modules/push/src/main/Stacking.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

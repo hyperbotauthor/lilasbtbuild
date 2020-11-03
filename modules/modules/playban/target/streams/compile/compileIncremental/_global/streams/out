@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 42 products, 7 sources, 14 libraries
+[debug] current source = Set(${BASE}/modules/playban/src/main/Env.scala, ${BASE}/modules/playban/src/main/SandbagWatch.scala, ${BASE}/modules/playban/src/main/RageSit.scala, ${BASE}/modules/playban/src/main/package.scala, ${BASE}/modules/playban/src/main/PlaybanApi.scala, ${BASE}/modules/playban/src/main/PlaybanFeedback.scala, ${BASE}/modules/playban/src/main/model.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

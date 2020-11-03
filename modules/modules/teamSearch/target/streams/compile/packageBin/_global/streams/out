@@ -1,0 +1,35 @@
+[debug] Packaging C:\dev\lila\modules\teamSearch\target\scala-2.13\teamsearch_2.13-3.2.jar ...
+[debug] Input file mappings:
+[debug] 	lila
+[debug] 	  C:\dev\lila\modules\teamSearch\target\scala-2.13\classes\lila
+[debug] 	lila\teamSearch
+[debug] 	  C:\dev\lila\modules\teamSearch\target\scala-2.13\classes\lila\teamSearch
+[debug] 	lila\teamSearch\Env$$anon$1.class
+[debug] 	  C:\dev\lila\modules\teamSearch\target\scala-2.13\classes\lila\teamSearch\Env$$anon$1.class
+[debug] 	lila\teamSearch\Env$$anon$2$$anonfun$process$1.class
+[debug] 	  C:\dev\lila\modules\teamSearch\target\scala-2.13\classes\lila\teamSearch\Env$$anon$2$$anonfun$process$1.class
+[debug] 	lila\teamSearch\Env$$anon$2.class
+[debug] 	  C:\dev\lila\modules\teamSearch\target\scala-2.13\classes\lila\teamSearch\Env$$anon$2.class
+[debug] 	lila\teamSearch\Env$$anon$3$$anonfun$receive$1.class
+[debug] 	  C:\dev\lila\modules\teamSearch\target\scala-2.13\classes\lila\teamSearch\Env$$anon$3$$anonfun$receive$1.class
+[debug] 	lila\teamSearch\Env$$anon$3.class
+[debug] 	  C:\dev\lila\modules\teamSearch\target\scala-2.13\classes\lila\teamSearch\Env$$anon$3.class
+[debug] 	lila\teamSearch\Env.class
+[debug] 	  C:\dev\lila\modules\teamSearch\target\scala-2.13\classes\lila\teamSearch\Env.class
+[debug] 	lila\teamSearch\Fields$.class
+[debug] 	  C:\dev\lila\modules\teamSearch\target\scala-2.13\classes\lila\teamSearch\Fields$.class
+[debug] 	lila\teamSearch\Fields.class
+[debug] 	  C:\dev\lila\modules\teamSearch\target\scala-2.13\classes\lila\teamSearch\Fields.class
+[debug] 	lila\teamSearch\package$.class
+[debug] 	  C:\dev\lila\modules\teamSearch\target\scala-2.13\classes\lila\teamSearch\package$.class
+[debug] 	lila\teamSearch\package.class
+[debug] 	  C:\dev\lila\modules\teamSearch\target\scala-2.13\classes\lila\teamSearch\package.class
+[debug] 	lila\teamSearch\Query$.class
+[debug] 	  C:\dev\lila\modules\teamSearch\target\scala-2.13\classes\lila\teamSearch\Query$.class
+[debug] 	lila\teamSearch\Query.class
+[debug] 	  C:\dev\lila\modules\teamSearch\target\scala-2.13\classes\lila\teamSearch\Query.class
+[debug] 	lila\teamSearch\TeamSearchApi.class
+[debug] 	  C:\dev\lila\modules\teamSearch\target\scala-2.13\classes\lila\teamSearch\TeamSearchApi.class
+[debug] 	lila\teamSearch\TeamSearchConfig.class
+[debug] 	  C:\dev\lila\modules\teamSearch\target\scala-2.13\classes\lila\teamSearch\TeamSearchConfig.class
+[debug] Done packaging.

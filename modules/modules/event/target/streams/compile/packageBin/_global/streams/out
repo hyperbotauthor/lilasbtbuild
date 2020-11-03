@@ -1,0 +1,37 @@
+[debug] Packaging C:\dev\lila\modules\event\target\scala-2.13\event_2.13-3.2.jar ...
+[debug] Input file mappings:
+[debug] 	lila
+[debug] 	  C:\dev\lila\modules\event\target\scala-2.13\classes\lila
+[debug] 	lila\event
+[debug] 	  C:\dev\lila\modules\event\target\scala-2.13\classes\lila\event
+[debug] 	lila\event\BsonHandlers$$anon$1.class
+[debug] 	  C:\dev\lila\modules\event\target\scala-2.13\classes\lila\event\BsonHandlers$$anon$1.class
+[debug] 	lila\event\BsonHandlers$.class
+[debug] 	  C:\dev\lila\modules\event\target\scala-2.13\classes\lila\event\BsonHandlers$.class
+[debug] 	lila\event\BsonHandlers.class
+[debug] 	  C:\dev\lila\modules\event\target\scala-2.13\classes\lila\event\BsonHandlers.class
+[debug] 	lila\event\Env.class
+[debug] 	  C:\dev\lila\modules\event\target\scala-2.13\classes\lila\event\Env.class
+[debug] 	lila\event\Event$.class
+[debug] 	  C:\dev\lila\modules\event\target\scala-2.13\classes\lila\event\Event$.class
+[debug] 	lila\event\Event$UserId$.class
+[debug] 	  C:\dev\lila\modules\event\target\scala-2.13\classes\lila\event\Event$UserId$.class
+[debug] 	lila\event\Event$UserId.class
+[debug] 	  C:\dev\lila\modules\event\target\scala-2.13\classes\lila\event\Event$UserId.class
+[debug] 	lila\event\Event.class
+[debug] 	  C:\dev\lila\modules\event\target\scala-2.13\classes\lila\event\Event.class
+[debug] 	lila\event\EventApi.class
+[debug] 	  C:\dev\lila\modules\event\target\scala-2.13\classes\lila\event\EventApi.class
+[debug] 	lila\event\EventForm$.class
+[debug] 	  C:\dev\lila\modules\event\target\scala-2.13\classes\lila\event\EventForm$.class
+[debug] 	lila\event\EventForm$Data$.class
+[debug] 	  C:\dev\lila\modules\event\target\scala-2.13\classes\lila\event\EventForm$Data$.class
+[debug] 	lila\event\EventForm$Data.class
+[debug] 	  C:\dev\lila\modules\event\target\scala-2.13\classes\lila\event\EventForm$Data.class
+[debug] 	lila\event\EventForm.class
+[debug] 	  C:\dev\lila\modules\event\target\scala-2.13\classes\lila\event\EventForm.class
+[debug] 	lila\event\package$.class
+[debug] 	  C:\dev\lila\modules\event\target\scala-2.13\classes\lila\event\package$.class
+[debug] 	lila\event\package.class
+[debug] 	  C:\dev\lila\modules\event\target\scala-2.13\classes\lila\event\package.class
+[debug] Done packaging.
